@@ -1,1 +1,1 @@
-# DDoS_Prediction_with_ML_ThrtInt
+# DDos_Prediction_with_ML_ThrtInt
