@@ -25,3 +25,5 @@ replica-logs.conf
 This configuration is placed in all replicas.
 
 The code of the training and prediction part is also placed in our cloud infrastructure and it is used in real time to be adapted with the new logs that come towards our environment.
+
+The dataset used was renamed in this repo.
