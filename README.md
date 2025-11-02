@@ -1,4 +1,4 @@
-# DDos_Prediction_with_ML_ThrtInt
+# DDoS_Prediction_with_ML_ThrtInt
 
 All the infrastructure was created in AWS Cloud Environment.
 
