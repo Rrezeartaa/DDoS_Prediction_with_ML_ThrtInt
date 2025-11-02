@@ -1,13 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Real-Time DDoS Detection using XGBoost and Replica Consensus
-Author: Rrezearta Thaqi
-Description:
- Continuously monitors incoming flow features, performs prediction using
- a pre-trained XGBoost model, and logs high-confidence DDoS alerts to Wazuh.
-"""
-
 import time
 import json
 import numpy as np
